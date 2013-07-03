@@ -1,0 +1,11 @@
+[{
+    "modid": "LMM_EntityMode_Accounter",
+    "name": "LMM Mode Accounter",
+    "version": "0.0.1",
+    "mcversion": "1.5.2",
+    "authors": [ "dhs_lo_jd" ],
+    "parent": "LMMExtension",
+    "requiredMods": [ "LMMExtension" ],
+    "dependencies": [ "LMMExtension" ],
+    "useDependencyInformation": "true"
+  }]
